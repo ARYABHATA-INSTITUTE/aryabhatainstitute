@@ -1,4 +1,1 @@
-
-document.addEventListener("DOMContentLoaded", () => {
-  console.log("Website loaded successfully!");
-});
+// JS Placeholder
